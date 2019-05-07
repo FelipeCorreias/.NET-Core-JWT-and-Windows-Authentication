@@ -1,0 +1,4 @@
+/.vs
+/JWTAndWindowsAuthentication/*.user
+/JWTAndWindowsAuthentication/bin
+/JWTAndWindowsAuthentication/obj
